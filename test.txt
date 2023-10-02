@@ -1,3 +1,5 @@
 Ciao, sono un file di testo
 Seconda riga
 Terza riga aggiunta dopo
+
+Aggiunta una riga di prova per il branch
